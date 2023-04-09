@@ -1,0 +1,1 @@
+# Praktium1_SQL.DDL
