@@ -1,4 +1,4 @@
-# ** Praktium1_SQL.DDL **
+# **Praktium1_SQL.DDL**
 
 
 ```
